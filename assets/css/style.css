@@ -1,0 +1,22 @@
+.aplogo {
+	width: 12%;
+	height: auto;
+}
+
+ul.list-group.list-group-horizontal {
+	--bs-list-group-border-color: rgba(0, 0, 0, 0);
+	--bs-list-group-border-width: 0;
+}
+
+.aplogo:hover {
+	scale: 1.25;
+}
+
+li.list-group-item.text-bg-primary:hover {
+	scale: 1.25;
+}
+
+.avatar {
+	width: 200px;
+	height: auto;
+}
